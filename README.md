@@ -7,7 +7,7 @@
 
 - 🎓 Soy estudiante de tercer año de **Ingeniería en Sistemas** en la Universidad de San Carlos de Guatemala.
 - 💻 Me apasiona la programación y aprovecho mi tiempo libre para seguir aprendiendo y desarrollando habilidades técnicas.  
-- 🚀 Estoy interesado en crear proyectos que me brinden **experiencia laboral práctica** o que simplemente me permitan explorar ideas **creativas y personales**.  
+- 🚀 En mi tiempo libre me gusta programar y aprender de mi carrera. 
 - 🌱 Actualmente estoy aprendiendo sobre nuevas tecnologías y buscando colaborar en proyectos interesantes.  
 - 📫 ¿Quieres contactarme? Puedes escribirme a: marroquinpamela2018ig@gmail.com
 
