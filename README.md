@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Pamela 👋</h1>
-<h3 align="center">Estudiante de Ingeniería en Sistemas</h3>
+<h3 align="center">Desarrolladora Junior</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catffeiner&label=Profile%20views&color=0e75b6&style=flat" alt="catffeiner" /> </p>
 
